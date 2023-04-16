@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solutions](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solutions](https://www.frontendmentor.io/solutions/responsive-landing-page-with-url-shortener-using-htmlsassjavascript-WtBOljDuhv)
+- Live Site URL: [Github Pages](https://johnmcdoe.github.io/url-shortening-api-master/)
 
 ## My process
 
